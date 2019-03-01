@@ -1,13 +1,13 @@
 ﻿+++
-title = "Módulo Higiene Ocupacional"
+title = "2. Módulo Higiene Ocupacional"
 date =  2019-02-11T14:08:44-02:00
 weight = 3
 
 +++
 
-#### **GHE**
+## GHE
 
-#### *Listar GHEs por Status* ---------------------------------
+### *Listar GHEs por Status* ---------------------------------
 
 <br>
 
@@ -83,7 +83,7 @@ weight = 3
 
 <br>
 
-#### *Listar GHEs por Área* --------------------------------------
+### *Listar GHEs por Área* --------------------------------------
 
 <br>
 
@@ -159,7 +159,7 @@ weight = 3
 
 <br>
 
-#### *Detalhar GHE por ID* ----------------------------------
+### *Detalhar GHE por ID* ----------------------------------
 
 <br>
 
@@ -234,7 +234,7 @@ Este serviço detalha um GHE com todos os dados.
 
 <br>
 
-#### *Criar GHE* ------------------------------------
+### *Criar GHE* ------------------------------------
 
 <br>
 
@@ -314,7 +314,7 @@ id: << identificador gerado >>
 
 <br>
 
-#### *Atualizar GHE* --------------------------
+### *Atualizar GHE* --------------------------
 
 <br>
 
@@ -390,7 +390,7 @@ id: << identificador gerado >>
 <br>
 
 
-#### *Listar Cálculos Estatístico por GHE* --------------------------
+### *Listar Cálculos Estatístico por GHE* --------------------------
 
 <br>
 
@@ -472,7 +472,7 @@ id: << identificador gerado >>
 
 <center> <h3> [Início] (/manual-de-integração/serviços-rest/módulo-higiene-ocupacional/) <h3> </center>
 
-
+<center> <h3> <b> [Sumário] (/manual-de-integração/) </b> </center>
 
  
   

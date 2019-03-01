@@ -1,7 +1,8 @@
-+++
+﻿+++
 title = "Projeto"
 date =  2019-02-11T14:08:44-02:00
 weight = 5
+pre = "<i class='fas fa-angle-double-right'></i> "
 +++
 
 ## O QUE É

@@ -1,12 +1,12 @@
 ﻿+++
-title = "Módulo Cadastro"
+title = "1. Módulo Cadastro"
 date =  2019-02-11T14:08:44-02:00
 weight = 2
 +++
 
-#### **Áreas (Estrutura)**
+## Áreas (Estrutura)
 
-#### *Lista Áreas* -----
+### *Lista Áreas* -----
 
 <br>
 
@@ -73,7 +73,7 @@ Este ID deve ser referente a uma Área.</td>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
   
@@ -84,7 +84,7 @@ Este ID deve ser referente a uma Área.</td>
 <br>
 
 
-#### Listar Todas Áreas nível 1 -----
+### *Listar Todas Áreas nível 1* -----
 
 <br>
 
@@ -131,24 +131,7 @@ Este ID deve ser referente a uma Área.</td>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário. </td> 
-</td>
-</tr>
-  
-</table>
-
-#### Erro:
- 
-<table>
-
-<tr>
-<td> <b>Código (Code) </b></td> 
-<td> <b>Descrição (message) </b>  </td>
-</tr>
-
-<tr>
-<td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -158,7 +141,7 @@ Este ID deve ser referente a uma Área.</td>
 
 <br>
 
-#### *Inativar Áreas* -----
+### *Inativar Áreas* -----
 
 <br>
 
@@ -174,7 +157,7 @@ Este ID deve ser referente a uma Área.</td>
 </td>
 </table>
 
-#### Parâmetros:
+#### <b>  Parâmetros </b>:
  
 <table>
 
@@ -218,7 +201,7 @@ Este ID deve ser referente a uma Área.</td>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -228,7 +211,7 @@ Este ID deve ser referente a uma Área.</td>
 
 <br>
 
-#### *Criar Área* -----
+### *Criar Área* -----
 
 <br>
 
@@ -294,7 +277,7 @@ id: << identificador >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -304,7 +287,7 @@ id: << identificador >>
 
 <br>
 
-#### *Atualizar Áreas* -----
+### *Atualizar Áreas* -----
 
 <br>
 
@@ -365,7 +348,7 @@ id: << identificador >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -375,7 +358,7 @@ id: << identificador >>
 
 <br>
 
-#### *Excluir Áreas* -----
+### *Excluir Áreas* -----
 
 <br>
 
@@ -441,7 +424,7 @@ id: << identificador >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -451,9 +434,9 @@ id: << identificador >>
 
 <br>
  
-#### **Cargo**
+## Cargo
 
-#### Listar Cargos pelo Status --------------------------
+### *Listar Cargos pelo Status* --------------------------
 
 <br>
 
@@ -519,7 +502,7 @@ Schema Cargo </td>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -529,7 +512,7 @@ Schema Cargo </td>
 
 <br>
 
-#### *Criar Cargo* --------------------------------------
+### *Criar Cargo* --------------------------------------
 
 <br>
 
@@ -545,7 +528,7 @@ Schema Cargo </td>
 </td>
 </table>
 
-#### Parâmetros:
+#### <b> Parâmetros  </b>:
  
 <table>
 
@@ -595,7 +578,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -605,7 +588,7 @@ Id: << identificador gerado >>
 
 <br>
 
-#### *Atualizar Cargo* ----------------------------------
+### *Atualizar Cargo* ----------------------------------
 
 <br>
 
@@ -666,7 +649,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -676,7 +659,7 @@ Id: << identificador gerado >>
 
 <br>
 
-#### *Excluir Cargo* ------------------------------------
+### *Excluir Cargo* ------------------------------------
 
 <br>
 
@@ -736,7 +719,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -746,9 +729,9 @@ Id: << identificador gerado >>
 
 <br>
 
-#### **Centro Custo**
+## Centro Custo
 
-#### *Listar Centros de Custo* --------------------------
+### *Listar Centros de Custo* --------------------------
 
 <br>
 
@@ -815,7 +798,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -825,7 +808,7 @@ Id: << identificador gerado >>
 
 <br>
 
-#### *Criar Centro Custo* -------------------------------
+### *Criar Centro Custo* -------------------------------
 
 <br>
 
@@ -891,7 +874,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -901,7 +884,7 @@ Id: << identificador gerado >>
 
 <br>
 
-#### *Atualizar Centro Custo* ---------------------------
+### *Atualizar Centro Custo* ---------------------------
 
 <br>
 
@@ -964,7 +947,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -974,7 +957,7 @@ Id: << identificador gerado >>
 
 <br>
 
-#### *Excluir Centro Custo* -----------------------------
+### *Excluir Centro Custo* -----------------------------
 
 <br>
 
@@ -1036,7 +1019,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -1047,9 +1030,9 @@ Id: << identificador gerado >>
 <br>
 
 
-#### **EPI**
+## EPI
 
-#### *Listar EPIs* ---------------------------------
+### *Listar EPIs* ---------------------------------
 
 <br>
 
@@ -1116,7 +1099,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -1126,7 +1109,7 @@ Id: << identificador gerado >>
 
 <br>
 
-#### *Criar EPI* --------------------------------------
+### *Criar EPI* --------------------------------------
 
 <br>
 
@@ -1192,7 +1175,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -1202,7 +1185,7 @@ Id: << identificador gerado >>
 
 <br>
 
-#### *Atualizar EPI* ----------------------------------
+### *Atualizar EPI* ----------------------------------
 
 <br>
 
@@ -1263,7 +1246,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -1273,7 +1256,7 @@ Id: << identificador gerado >>
 
 <br>
 
-#### *Excluir EPI* ------------------------------------
+### *Excluir EPI* ------------------------------------
 
 <br>
 
@@ -1335,7 +1318,7 @@ Código interno que Identifica um EPI dentro do Apollus.
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -1345,9 +1328,9 @@ Código interno que Identifica um EPI dentro do Apollus.
 
 <br>
 
-#### **EPI V2 - Nova Versão do EPI**
+## EPI V2 - Nova Versão do EPI
 
-#### *Criar EPI V2* --------------------------
+### *Criar EPI V2* --------------------------
 
 <br>
 
@@ -1415,7 +1398,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -1428,7 +1411,7 @@ Id: << identificador gerado >>
 <br>
 
 
-#### *Excluir EPI V2* --------------------------
+### *Excluir EPI V2* --------------------------
 
 <br>
 
@@ -1489,7 +1472,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -1500,7 +1483,7 @@ Id: << identificador gerado >>
 
 <br>
 
-#### *Listar Epis Por Código CA e Período Edição* --------------------------
+### *Listar Epis Por Código CA e Período Edição* -------------
 
 <br>
 
@@ -1578,7 +1561,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -1589,7 +1572,7 @@ Id: << identificador gerado >>
 
 <br>
 
-#### *Listar Epis Por Código e Período Edição* --------------------------
+### *Listar Epis Por Código e Período Edição* ----------
 
 <br>
 
@@ -1667,7 +1650,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -1678,9 +1661,9 @@ Id: << identificador gerado >>
 <br>
 
 
-#### **Pessoas**
+## Pessoas
 
-#### *Listar Líderes* ---------------------------------
+### *Listar Líderes* ---------------------------------
 
 <br>
 
@@ -1737,7 +1720,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -1747,7 +1730,7 @@ Id: << identificador gerado >>
 
 <br>
 
-#### *Listar Pessoas (Matricula + CPF + Nome)* --------------------------------------
+### *Listar Pessoas (Matricula + CPF + Nome)* --------------------
 
 <br>
 
@@ -1817,7 +1800,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -1827,7 +1810,7 @@ Id: << identificador gerado >>
 
 <br>
 
-#### *Criar Pessoa* ----------------------------------
+### *Criar Pessoa* ----------------------------------
 
 <br>
 
@@ -1845,7 +1828,7 @@ Id: << identificador gerado >>
 </td>
 </table>
 
-#### Parâmetros:
+#### <b> Parâmetros  </b>:
  
 <table>
 
@@ -1895,7 +1878,7 @@ id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -1905,7 +1888,7 @@ id: << identificador gerado >>
 
 <br>
 
-#### *Atualizar Pessoa* ------------------------------------
+### *Atualizar Pessoa* ------------------------------------
 
 <br>
 
@@ -1922,7 +1905,7 @@ id: << identificador gerado >>
 </td>
 </table>
 
-#### Parâmetros:
+#### <b> Parâmetros  </b>:
  
 <table>
 
@@ -1969,7 +1952,7 @@ Objeto Pessoa
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -1979,7 +1962,7 @@ Objeto Pessoa
 
 <br>
 
-#### *Exclui pessoa* --------------------------
+### *Exclui pessoa* --------------------------
 
 <br>
 
@@ -2042,7 +2025,7 @@ Objeto Pessoa
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -2053,7 +2036,7 @@ Objeto Pessoa
 <br>
 
 
-#### *Inativar Pessoa* --------------------------
+### *Inativar Pessoa* --------------------------
 
 <br>
 
@@ -2120,7 +2103,7 @@ Objeto Pessoa
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -2131,7 +2114,7 @@ Objeto Pessoa
 
 <br>
 
-#### *Listar Riscos* --------------------------
+### *Listar Riscos* --------------------------
 
 <br>
 
@@ -2180,7 +2163,7 @@ Objeto Pessoa
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -2191,10 +2174,10 @@ Objeto Pessoa
 
 <br>
 
-#### **Turno**
+## Turno
 
 
-#### *Listar Turnos Pela Area 1* --------------------------
+### *Listar Turnos Pela Area 1* --------------------------
 
 <br>
 
@@ -2244,7 +2227,7 @@ Objeto Pessoa
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -2255,7 +2238,7 @@ Objeto Pessoa
 
 <br>
 
-#### *Criar Turno* --------------------------
+### *Criar Turno* --------------------------
 
 <br>
 
@@ -2325,7 +2308,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -2336,7 +2319,7 @@ Id: << identificador gerado >>
 
 <br>
 
-#### *Atualizar Turno* --------------------------
+### *Atualizar Turno* --------------------------
 
 <br>
 
@@ -2406,7 +2389,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -2417,7 +2400,7 @@ Id: << identificador gerado >>
 
 <br>
 
-#### *Excluir Turno* --------------------------
+### *Excluir Turno* --------------------------
 
 <br>
 
@@ -2481,7 +2464,7 @@ Id: << identificador gerado >>
 
 <tr>
 <td> XX </td> 
-<td> Verifica resposta no glossário.</td> 
+<td> Verifica Resposta no glossário.</td> 
 </td>
 </tr>
 
@@ -2490,6 +2473,8 @@ Id: << identificador gerado >>
 <br>
 
 <center> <h3> [Início] (/manual-de-integração/serviços-rest/módulo-cadastro/) <h3> </center>
+
+<center> <h3> <b> [Sumário] (/manual-de-integração/) </b> </center>
 
 
   

@@ -10,12 +10,12 @@ weight = 1
 
 - [APOLLUS INTEGRACAO API REST VERSAO 1.0] (../manual-de-integração/apollus-integracao-api-rest-versao-1.0/)
 
-<p> [Histórico de Revisões](../manual-de-integração/apollus-integracao-api-rest-versao-1.0/histórico-de-revisoes/)
-<p> [Introdução](../manual-de-integração/apollus-integracao-api-rest-versao-1.0/introdução/)
-<p> [Visão Geral](../manual-de-integração/apollus-integracao-api-rest-versao-1.0/visão-geral/)
-<p> [Arquitetura] (../manual-de-integração/apollus-integracao-api-rest-versao-1.0/arquitetura/)
-<p> [Ambientes] (../manual-de-integração/apollus-integracao-api-rest-versao-1.0/ambientes/)
-<p> [Glossário] (../manual-de-integração/apollus-integracao-api-rest-versao-1.0/glossário/)
+<p> [Histórico de Revisões](../manual-de-integração/apollus-integração/histórico-de-revisões/)
+<p> [Introdução](../manual-de-integração/apollus-integração/introdução/)
+<p> [Visão Geral](../manual-de-integração/apollus-integração/visão-geral/)
+<p> [Arquitetura] (../manual-de-integração/apollus-integração/arquitetura/)
+<p> [Ambientes] (../manual-de-integração/apollus-integração/ambientes/)
+<p> [Glossário] (../manual-de-integração/apollus-integração/glossário/)
 
 - [SERVICOS REST] (../manual-de-integração/serviços-rest/)
 

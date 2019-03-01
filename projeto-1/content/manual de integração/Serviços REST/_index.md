@@ -1,9 +1,12 @@
-+++
-title = "Servicos REST"
+﻿+++
+title = "Serviços REST"
 date =  2019-02-11T14:08:44-02:00
+chapter= true
 weight = 2
+pre = "<i class='fas fa-angle-double-right'></i> "
 +++
 
-#### Abaixo sao descritos e exemplificados todos os servicos disponiveis na versao V1.0 do Apollus Integracao.
+# Serviços REST
 
-#### Os servicos sao categorizados por modulos e tipo de servico.
+<center> <h3> Abaixo são descritos e exemplificados todos os serviços disponíveis na versão V1.0 do Apollus Integração.
+ Os serviços são categorizados por módulos e tipo de serviço. </h3> </center> 

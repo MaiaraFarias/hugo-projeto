@@ -1,8 +1,7 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-
+languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
 title = "Projeto"
-
 theme = "hugo-theme-learn"
 
 [outputs]
@@ -10,7 +9,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [params]
 # Change default color scheme with a variant one. Can be "red", "blue", "green".
-themeVariant = "red"
+themeVariant = "mine"
 
 
 

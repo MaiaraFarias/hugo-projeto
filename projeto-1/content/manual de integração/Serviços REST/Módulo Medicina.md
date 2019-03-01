@@ -1,12 +1,12 @@
 ﻿+++
-title = "Módulo Medicina"
+title = "3. Módulo Medicina"
 date =  2019-02-11T14:08:44-02:00
 weight = 4
 +++
 
-#### **Cadastro Profissionais Medicina**
+## Cadastro Profissionais Medicina
 
-#### *Listar Profissionais Medicina* ---------------------------------
+### *Listar Profissionais Medicina* ---------------------------------
 
 <br>
 
@@ -95,9 +95,9 @@ weight = 4
 
 <br>
 
-#### **Cadastro Grupo Risco**
+## Cadastro Grupo Risco
 
-#### *Lista Grupo de Risco* --------------------------------------
+### *Lista Grupo de Risco* --------------------------------------
 
 <br>
 
@@ -157,7 +157,7 @@ weight = 4
 
 <br>
 
-#### *Criar Grupo de Risco* ----------------------------------
+### *Criar Grupo de Risco* ----------------------------------
 
 <br>
 
@@ -237,7 +237,7 @@ id: << identificador gerado >>
 
 <br>
 
-#### *Atualizar Grupo de Risco* ------------------------------------
+### *Atualizar Grupo de Risco* ------------------------------------
 
 <br>
 
@@ -319,9 +319,9 @@ id: << identificador gerado >>
 
 <br>
 
-#### **Prontuário**
+## Prontuário
 
-#### *Listar CAT por funcionário* --------------------------
+### *Listar CAT por funcionário* --------------------------
 
 <br>
 
@@ -400,7 +400,7 @@ id: << identificador gerado >>
 <br>
 
 
-#### *Criar Afastamento* --------------------------
+### *Criar Afastamento* --------------------------
 
 <br>
 
@@ -831,7 +831,7 @@ id: << identificador gerado >>
     }
 	
 
-#### *Atualizar Afastamento* ---------------------------------
+### *Atualizar Afastamento* ---------------------------------
 
 <br>
 
@@ -910,7 +910,7 @@ id: << identificador gerado >>
 
 <br>
 
-#### *Listar Afastamentos* --------------------------------------
+### *Listar Afastamentos* --------------------------------------
 
 <br>
 
@@ -970,7 +970,7 @@ id: << identificador gerado >>
 
 <br>
 
-#### *Listar Afastamento Período* ----------------------------------
+### *Listar Afastamento Período* ----------------------------------
 
 <br>
 
@@ -1054,7 +1054,7 @@ O período informado não pode ultrapassar a 10 dias.
 
 <br>
 
-#### *Criar ASO* ------------------------------------
+### *Criar ASO* ------------------------------------
 
 <br>
 
@@ -1133,7 +1133,7 @@ id: << identificador gerado >>
 
 <br>
 
-#### *Atualizar ASO* --------------------------
+### *Atualizar ASO* --------------------------
 
 <br>
 
@@ -1215,7 +1215,7 @@ id: << identificador gerado >>
 <br>
 
 
-#### *Listar ASO Período* --------------------------
+### *Listar ASO Período* --------------------------
 
 <br>
 
@@ -1301,7 +1301,7 @@ id: Array de ASO
 
 <center> <h3> [Início] (/manual-de-integração/serviços-rest/módulo-medicina/) <h3> </center>
 
-
+<center> <h3> <b> [Sumário] (/manual-de-integração/) </b> </center>
 
 
 

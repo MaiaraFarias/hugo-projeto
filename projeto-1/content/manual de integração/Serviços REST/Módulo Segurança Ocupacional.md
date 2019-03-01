@@ -1,12 +1,12 @@
 ﻿+++
-title = "Módulo Segurança Ocupacional"
+title = "4. Módulo Segurança Ocupacional"
 date =  2019-02-11T14:08:44-02:00
 weight = 5
 +++
 
-#### **Gestão Epi**
+## Gestão Epi
 
-#### *Listar Epi ESocial* ---------------------------------
+### *Listar Epi ESocial* ---------------------------------
 
 <br>
 
@@ -86,7 +86,7 @@ weight = 5
 
 <br>
 
-#### *Criar Epi ESocial* --------------------------------------
+### *Criar Epi ESocial* --------------------------------------
 
 <br>
 
@@ -162,7 +162,7 @@ weight = 5
 
 <br>
 
-#### *Atualizar Epi ESocial* ----------------------------------
+### *Atualizar Epi ESocial* ----------------------------------
 
 <br>
 
@@ -236,3 +236,5 @@ Permite atualizar um EPI associado a um Risco vinculados para um determinado Fun
 <br>
 
 <center> <h3> [Início] (/manual-de-integração/serviços-rest/módulo-segurança-ocupacional/) <h3> </center>
+
+<center> <h3> <b> [Sumário] (/manual-de-integração/) </b> </center>
